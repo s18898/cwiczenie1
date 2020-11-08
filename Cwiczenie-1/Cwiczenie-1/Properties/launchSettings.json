@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Cwiczenie-1": {
+      "commandName": "Project",
+      "commandLineArgs": "https://www.pja.edu.pl/ru/"
+    }
+  }
+}
